@@ -1,0 +1,4 @@
+1.  remove all  files in   C:\Users\e610375\AppData\Roaming\JetBrains
+2.  delete file *.evaluation  in C:\Users\e610375\.IntelliJIdea2017.2\config\eval
+3. remove evlsprt.172  and evlsprt2.172  C:\Users\e610375\.IntelliJIdea2017.2\config\options\options.xml
+4.  open regedit , remove all the things in 'jetbrains' folder , see pic 'Registry.PNG'
